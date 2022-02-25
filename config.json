@@ -1,0 +1,14 @@
+{
+  "name": "[dev] Raise exception",
+  "type": "app",
+  "version": "2.0.0",
+  "categories": ["development"],
+  "description": "handle server errors",
+  "docker_image": "supervisely/base-py-sdk:6.7.11",
+  "main_script": "src/main.py",
+  "port": 8000,
+  "task_location": "application_sessions",
+  "icon": "https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/100/000000/external-error-404-networking-smashingstocks-flat-smashing-stocks.png",
+  "integrated_into": ["panel"],
+  "icon_background": "#FFFFFF"
+}
