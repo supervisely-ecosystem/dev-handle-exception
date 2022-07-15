@@ -1,2 +1,2 @@
-supervisely[apps]==6.7.11
+supervisely[apps]==6.35.0
 black==22.1.0
